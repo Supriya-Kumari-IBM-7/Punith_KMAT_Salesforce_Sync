@@ -34,5 +34,5 @@
       <value name="value"></value>
     </record>
   </array>
-  <null name="target_server_version"/>
+  <value name="target_server_version">10.1.7</value>
 </Values>
